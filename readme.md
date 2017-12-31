@@ -1,3 +1,15 @@
+1. This is a youtube/vimeo clone made using laravel and vueJs 2.0.
+2. Uses FFMpeg laravel package for video encoding and uploading to Amazon s3.
+  <a href = "https://github.com/pascalbaljetmedia/laravel-ffmpeg">FFMPeg Laravel</a>
+3. Uses the disqus engine for commenting.
+4. Features involve:
+    a. Search using <a href="">Algolia</a>.
+    b. Notifications for Users.
+    c. Video up/down voting.
+    c. Multiple Channel Support. (Currently not available)
+    d. Trending Videos using <a href = "https://github.com/phpredis/phpredis">Redis</a>
+      and much more...
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
