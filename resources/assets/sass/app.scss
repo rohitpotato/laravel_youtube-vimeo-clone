@@ -1,0 +1,19 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+//components
+
+@import "components/video";
+
+
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+
+$icon-font-path: '~videojs-font/fonts';
+@import 'node_modules/video.js/src/css/video-js.scss';
